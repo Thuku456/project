@@ -12,21 +12,21 @@ h1{
 
     position: absolute;
     width: 331px;
-    height: 23px;
+    height: 100px;
     left: 178px;
-    top: 8px;
+    top: 0px;
     
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
-    font-size: 12px;
-    line-height: 14px;
+    font-size: 25px;
+    line-height: 28px;
     
     color: #000000;
     position: absolute;
-width: 362px;
-height: 25px;
-left: 154px;
+width: 331px;
+height: 50px;
+left: 178px;
 top: 0px;
 
 background: #0B5624;
@@ -35,15 +35,15 @@ background: #0B5624;
 .home{
     position: absolute;
 width: 35px;
-height: 15px;
+height: 30px;
 left: 39px;
 top: 20px;
 
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
-font-size: 12px;
-line-height: 14px;
+font-size: 25px;
+line-height: 28px;
 
 
 
@@ -81,17 +81,26 @@ color: #000000;
 
     
     position: absolute;
-width: 535px;
+width: 540px;
 height: 87px;
-left: 301px;
+left: 282px;
 top: 147px;
 
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
-font-size: 12px;
+font-size: 16px;
 line-height: 14px;
-color: #FFFFFF;
+color: white;
+
+
+position: absolute;
+width: 554px;
+height: 108px;
+left: 283px;
+top: 119px;
+
+background: #5C9848;
 
 }
 
@@ -139,8 +148,8 @@ top: 8px;
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
-font-size: 12px;
-line-height: 14px;
+font-size: 25px;
+line-height: 28px;
 
 
 
@@ -148,7 +157,7 @@ color: #000000;
 
 position: absolute;
 width: 150px;
-height: 22px;
+height: 31px;
 left: 681px;
 top: 0px;
 
@@ -161,13 +170,13 @@ background: #0B5624;
 width: 62px;
 height: 14px;
 left: 560px;
-top: 7px;
+top: 3px;
 
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
-font-size: 12px;
-line-height: 14px;
+font-size: 25px;
+line-height: 28px;
 
 
 
@@ -175,11 +184,15 @@ color: #000000;
 
 position: absolute;
 width: 144px;
-height: 25px;
+height: 31px;
 left: 516px;
 top: 0px;
 
 background: #0B5624;
+
+.contact:hover{
+    color:red;
+}
 }
 .mail{
     position: absolute;
@@ -192,7 +205,7 @@ font-family: Roboto;
 font-style: normal;
 font-weight: bold;
 font-size: 12px;
-line-height: 14px;
+line-height: 28px;
 
 
 
