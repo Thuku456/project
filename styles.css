@@ -24,12 +24,12 @@ h1{
     
     color: #000000;
     position: absolute;
-width: 331px;
-height: 50px;
-left: 178px;
+width: 350px;
+height: 28px;
+left: 154px;
 top: 0px;
 
-background: #0B5624;
+background:white;
     
 }
 .home{
@@ -42,7 +42,7 @@ top: 20px;
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
-font-size: 25px;
+font-size: 14px;
 line-height: 28px;
 
 
@@ -51,11 +51,11 @@ color: #000000;
 
 position: absolute;
 width: 153px;
-height: 31px;
+height: 20px;
 left: 1px;
 top: 0px;
 
-background: #186725;
+background: white;
 }
 .item{
     position: absolute;
@@ -134,7 +134,7 @@ height: 25px;
 left: 1px;
 top: 225px;
 
-background: #186725;
+background:white;
 
 }
 
@@ -148,7 +148,7 @@ top: 8px;
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
-font-size: 25px;
+font-size: 15px;
 line-height: 28px;
 
 
@@ -157,11 +157,11 @@ color: #000000;
 
 position: absolute;
 width: 150px;
-height: 31px;
+height: 20px;
 left: 681px;
 top: 0px;
 
-background: #0B5624;
+background: white;
 }
 .contact{
     
@@ -175,7 +175,7 @@ top: 3px;
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
-font-size: 25px;
+font-size: 15px;
 line-height: 28px;
 
 
@@ -184,15 +184,13 @@ color: #000000;
 
 position: absolute;
 width: 144px;
-height: 31px;
+height: 20px;
 left: 516px;
 top: 0px;
 
-background: #0B5624;
+background: white;
 
-.contact:hover{
-    color:red;
-}
+
 }
 .mail{
     position: absolute;
@@ -263,10 +261,10 @@ height: 26px;
 left: 1px;
 top: 134px;
 
-background: #0B5624;
+background: white;
 }
 .whole{
-    background-color: darkgreen;
+    background-color:#0B5624;;
     position: absolute;
 width: 1500px;
 height: 900px;
